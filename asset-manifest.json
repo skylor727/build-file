@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00cd1f57.css",
+    "main.js": "/static/js/main.6062de91.js",
+    "static/media/mountain-top-snow-mountains-nature-dual-monitors-hd-wallpaper-thumb.jpg": "/static/media/mountain-top-snow-mountains-nature-dual-monitors-hd-wallpaper-thumb.7214e59b56cc7e0f74a4.jpg",
+    "index.html": "/index.html",
+    "main.00cd1f57.css.map": "/static/css/main.00cd1f57.css.map",
+    "main.6062de91.js.map": "/static/js/main.6062de91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00cd1f57.css",
+    "static/js/main.6062de91.js"
+  ]
+}
